@@ -1,0 +1,218 @@
+body {
+	font: 12px arial;
+	text-align: center;
+	background: #fff
+}
+
+body,p,form,ul {
+	margin: 0;
+	padding: 0
+}
+
+body,form {
+	position: relative
+}
+
+ol,ul {
+	list-style: none;
+}
+
+td {
+	text-align: left
+}
+
+img {
+	border: 0
+}
+
+a {
+	color: #00c
+}
+
+a:hover {
+	color: #f00
+}
+
+a:active {
+	color: #f00
+}
+
+.top {
+	font-size: 14px;
+	color: #00f;
+	padding: 10px 10px 0 0;
+	text-align: right;
+}
+
+.top a.sel,.top a.sel:visited {
+	color: #000;
+	text-decoration: none
+}
+
+.logo {
+	line-height: 20px;
+	height: 40px;
+	overflow: hidden;
+	margin: 70px 0 50px
+}
+
+.logo2 {
+	line-height: 120px;
+	height: 40px;
+	overflow: hidden;
+	background: url(hlogo2.gif) no-repeat center 0;
+	margin: 70px 0 50px
+}
+
+.txtad {
+	width: 530px;
+	margin: 0 auto;
+	text-align: left;
+	height: 15px;
+	padding-bottom: 5px;
+}
+
+#m {
+	width: 404px;
+	height: 24px;
+	padding: 3px 7px;
+	padding: 4px 7px 2px\9;
+	font: bold 20px arial;
+	background: url(i.png) no-repeat;
+	border: 1px solid #cdcdcd;
+	border-color: #9a9a9a #cdcdcd #cdcdcd #9a9a9a;
+	vertical-align: top
+}
+
+.btn {
+	width: 95px;
+	height: 32px;
+	padding: 0;
+	padding-top: 2px\9;
+	border: 0;
+	background: #ddd url(i.png) 0 -35px;
+	cursor: pointer;
+	font-size: 14px
+}
+
+.btn_h {
+	background-position: -100px -35px
+}
+
+#m,.btn_wr {
+	margin: 0 5px 0 0
+}
+
+.btn_wr {
+	width: 97px;
+	height: 34px;
+	display: inline-block;
+	background: url(i.png) no-repeat -202px bottom;
+	_padding-top: 1px;
+	*position: relative
+}
+
+.search {
+	height: 36px;
+}
+
+.banner {
+	margin: 30px 0 30px;
+	height: 150px;
+}
+
+.foot {
+	border-top: 1px solid #D3E1F9;
+	padding-top: 10px;
+	margin: 15px 10px 0;
+	line-height: 26px;
+}
+
+.page {
+	width: 884px;
+	margin: 20px auto 0;
+	text-align: left;
+	height: 100%;
+	overflow: hidden;
+}
+
+.l {
+	float: left;
+	width: 130px;
+	padding-right: 10px;
+}
+
+.l .logo {
+	margin: 15px 0 10px;
+	background: url(hlogo.gif) no-repeat;
+}
+
+.l .logo a,.l .logo a:visited {
+	display: block;
+	width: 130px;
+	height: 40px;
+}
+
+.l ul {
+	padding: 20px 0 120px 24px;
+	background: url(ic.gif) no-repeat 14px 28px;
+}
+
+.l ul li {
+	line-height: 30px;
+	height: 30px;
+	font-size: 14px;
+	padding-left: 15px
+}
+
+.l ul .sel {
+	font-weight: bold;
+}
+
+.l ul .sel a,.l ul .sel a:visited {
+	color: #000;
+	text-decoration: none
+}
+
+.l .fw {
+	text-align: center;
+	color: #686868;
+	line-height: 24px;
+	border-top: 1px solid #D3E1F9;
+	padding-top: 30px;
+}
+
+.l .fw a,.l .fw a:visited {
+	color: #686868;
+}
+
+.r {
+	float: right;
+	width: 744px;
+}
+
+.r .txtad,.r .search {
+	margin: 0;
+	padding-left: 15px;
+}
+
+.r ul {
+	
+}
+
+.r li {
+	font-size: 18px;
+	line-height: 52px;
+	font-family: Î¢ÈíÑÅºÚ;
+}
+
+.r .cx {
+	margin-top: 30px;
+	border-left: 1px solid #D3E1F9;
+	padding-left: 15px;
+}
+
+.r .cx2 {
+	margin-top: 10px;
+	padding-left: 9px;
+}
